@@ -30,11 +30,10 @@ Mahoney, P., G. Liston, B. Mangipane, and L.R. Prugh. 2018. ABoVE: Dall Sheep Re
 The content in this repository was presented during a NASA Earthdata webinar in September 2019. More information can be found at the following link:
 https://daac.ornl.gov/resources/tutorials/create_publication_quality_netcdf/
 
-
-
 ## Prerequisites
 
-**Command line utilities:** GDAL, NCO, ncdump, nccopy
+**Command line utilities:** GDAL, NCO, ncdump, nccopy        
+
 **Python packages:** netCDF4, gdal, pyproj
 
 ## Procedure
