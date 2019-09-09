@@ -13,7 +13,7 @@ In this webinar we introduce step-by-step methods, software, and tools that you 
 1. Why netCDF: What advantages does netCDF have that make it a suitable long-term archive and sharing format, and
 2. How netCDF: How can you transform your data from other formats into standardized netCDF files.
 
-<img src"images\TimeSeriesSnowDepth_horizontal_crop.png" width="800">
+![TimeSeriesSnowDepth](images\TimeSeriesSnowDepth_horizontal_crop.png | width=800)
 
 ## Data
 
