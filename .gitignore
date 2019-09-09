@@ -1,3 +1,9 @@
+# USER IGNORE
+*.nc
+*.nc4
+*.tif
+singleband/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
