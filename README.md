@@ -1,13 +1,13 @@
-# NetCDF Why and How- Creating Publication Quality NetCDF Datasets
+# NetCDF Why and How- Creating Publication Quality NetCDF
 Content from the NASA Earthdata webinar presented by ORNL DAAC in September 2019.
 
-**Author:** ORNL DAAC
-**Date:** September 4, 2019
-**Contact for the ORNL DAAC:** support-ornl.gov@earthdata.nasa.gov
+**Author:** ORNL DAAC       
+**Date:** September 4, 2019       
+**Contact for the ORNL DAAC:** support-ornl.gov@earthdata.nasa.gov       
 
-**Keywords:** netCDF, Data Management, Python, OPeNDAP, Web Service, NCO, GDAL
+**Keywords:** netCDF, Data Management, Python, OPeNDAP, Web Service, NCO, GDAL       
 
-## Overview
+## Overview       
 
 In this webinar we introduce step-by-step methods, software, and tools that you canuse to create, visualize, and standardize netCDF files before submitting your data toan archive.The netCDF file format is a recommended format for archival and distribution of multi-dimensional and gridded geospatial data. However, creating and organizing standardized datasets can be challenging for researchers not experienced with netCDF. This webinar focuses on two main topics:
 1. Why netCDF: What advantages does netCDF have that make it a suitable long-term archive and sharing format, and
@@ -36,6 +36,5 @@ Link to the Command Line (GDAL, NCO) demonstration presented in this webinar:
 Link to the Python demonstration (Jupyter Notebook) presented in this webinar:         
 [Python_Demo.ipynb](Python_Demo.ipynb)
 
-
 ## Related Tutorials
-More tutorials related to ORNL DAAC data and web services can be found at theORNL DAAC's Resources page: https://daac.ornl.gov/resources/.
+More tutorials related to ORNL DAAC data and web services can be found at the [ORNL DAAC Resources page](https://daac.ornl.gov/resources/).
