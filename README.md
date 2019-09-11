@@ -1,5 +1,5 @@
 # NetCDF Why and How: Creating Publication Quality NetCDF
-Content from the NASA Earthdata webinar presented by ORNL DAAC in September 2019.
+Demonstrations from the NASA Earthdata webinar presented by ORNL DAAC in September 2019.
 
 **Author:** ORNL DAAC       
 **Date:** September 4, 2019       
@@ -9,18 +9,16 @@ Content from the NASA Earthdata webinar presented by ORNL DAAC in September 2019
 
 ## Overview       
 
-In this webinar we introduce step-by-step methods, software, and tools that you canuse to create, visualize, and standardize netCDF files before submitting your data toan archive.The netCDF file format is a recommended format for archival and distribution of multi-dimensional and gridded geospatial data. However, creating and organizing standardized datasets can be challenging for researchers not experienced with netCDF. This webinar focuses on two main topics:
-1. Why netCDF: What advantages does netCDF have that make it a suitable long-term archive and sharing format, and
-2. How netCDF: How can you transform your data from other formats into standardized netCDF files.
+These tutorials introduce step-by-step methods, software, and tools used to create, visualize, and standardize netCDF files to archive ready formats. The netCDF file format is a recommended format for archival and distribution of multi-dimensional and gridded geospatial data. In the tutorials presented here, daily geoTIFF files are converted to a single multidimensional netCDF file that follows Climate and Forecast (CF) Conventions. Separate tutorials exist demonstrating command line utilities as well as popular programming software are demonstrated.
 
 <img src="images\TimeSeriesSnowDepth_horizontal_crop.png" width="750" style="display:block;margin-left: auto; margin-right:auto;">
 
-## Data
+## Demonstration Data
 
-Download the demonstration data here:     
+Download the geoTIFF demonstration data here:     
 https://daac.ornl.gov/resources/tutorials/create_publication_quality_netcdf/singleband.zip
 
-**Source Dataset**
+**Archived Dataset**
 The learning materials provided in this repository work with data from the *ABoVE: Dall Sheep Response to Snow and Landscape Covariates* data published by the ORNL DAAC. View the User Guide for this dataset: 
 https://daac.ornl.gov/ABOVE/guides/Dall_Sheep_Snowpack.html
 
